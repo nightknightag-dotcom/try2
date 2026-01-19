@@ -1,0 +1,61 @@
+p {
+font-family:  Roboto;
+}
+
+.sbar {
+display: block;
+}
+
+.tm1{
+width: 100%;
+}
+
+.vit {
+font-size: 25px;
+font-weight: 545;
+margin-top: 0px;
+margin-bottom: 0;
+}
+
+.chn {
+font-size: 20px;
+margin-top: 0;
+margin-bottom: 0;
+color:#aaa ;
+}
+
+.st {
+margin-top: 6px;
+margin-bottom: 0;
+color:#aaa ;
+}
+
+.profpr {
+
+}
+
+.vidinfo {
+
+}
+
+.prpct {
+width: 40px;
+border-radius: 50px;
+}
+
+.row1 {
+margin-bottom: 10px;
+}
+
+.grid1 {
+display: grid;
+grid-template-columns: 50px 1fr;
+}
+
+.videogrid{ 
+column-gap: 15px;
+row-gap: 25px;
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+
+}
