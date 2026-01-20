@@ -2,8 +2,31 @@ p {
 font-family:  Roboto;
 }
 
+.prpct:hover {
+box-shadow: 4px 4px 4px black;
+cursor: pointer;
+}
+
+.prpct:active {
+padding-top: 4px;
+padding-left: 2px;
+box-shadow: 0px 0px 0px white ;
+}
+
 .sbar {
 display: block;
+}
+
+.tm1:hover {
+box-shadow: 6px 2px 6px black ;
+cursor: pointer;
+
+}
+
+.tm1:active {
+padding-top: 3px;
+padding-left: 3px;
+box-shadow: 0px 0px 0px white ;
 }
 
 .tm1{
@@ -59,3 +82,5 @@ display: grid;
 grid-template-columns: 1fr 1fr 1fr;
 
 }
+
+
